@@ -1,2 +1,2 @@
 # DungeonCrawler
-Q-Learning
+"Dungeon Koala" ist ein Spiel das wir uns im Rahmen des Projekts "Lernende Agenten" ausgedacht haben, um einen Agenten daran lernen zu lassen. Es ist ein rundenbasiertes Spiel, bei dem ein Spieler im Zweikampf auf einen anderen (computergesteuerten) Spieler trifft. Spielziel ist es eine feste Anzahl an zufällig generierten Gegnern (derzeit 100) zu besiegen. Jede Begegnung wird durch einen Raum repräsentiert in dem ein neuer Gegner vorgesetzt wird. Um seinen Gegner zu besiegen stehem jedem Teilnehmer eine Reihe von Aktionen zur Verfügung.
